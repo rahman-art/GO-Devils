@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "738339172416",
+    "project_id": "godevil-792d4",
+    "storage_bucket": "godevil-792d4.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:738339172416:android:0d4d3abb717d49279aafa5",
+        "android_client_info": {
+          "package_name": "com.godevils"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAKXj97Av2y-Vocn2NKEmHW-RQXsAyniGA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
